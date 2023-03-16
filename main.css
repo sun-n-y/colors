@@ -1,21 +1,22 @@
-/* rgb a-opacity/transparency 0-1 */
+/* 
+hsl
+hex values #RRGGBB
+
+*/
 
 #first {
-  color: rgba(255, 0, 0, 1);
-  background: rgba(0, 0, 0, 0);
+  color: #ff0000;
+  background: #000000;
 }
 #second {
-  color: rgba(255, 0, 0, 0.75);
-  background: rgba(0, 0, 0, 0.25);
+  color: #fff;
+  background: #00ff00;
 }
 #third {
-  color: rgba(255, 0, 0, 0.25);
-  background: rgba(0, 0, 0, 0.75);
+  color: #0000ff;
+  background: #f15025;
 }
 #fourth {
-  color: rgba(255, 0, 0, 0);
-  background: rgba(0, 0, 0, 1);
-}
-body {
-  background: rgba(210, 89, 210, 0.4);
+  color: #f234ad;
+  background: #222;
 }
