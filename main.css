@@ -1,15 +1,13 @@
 /* 
-hsl
-hex values #RRGGBB
-
+vs code color options
 */
 
 #first {
-  color: #ff0000;
+  color: rgba(60, 36, 194, 0.815);
   background: #000000;
 }
 #second {
-  color: #fff;
+  color: hwb(305 28% 37%);
   background: #00ff00;
 }
 #third {
