@@ -1,10 +1,17 @@
-/* color names > 140 */
+/* rgb red green blue 0-225 */
 
 #first {
-  color: white;
-  background-color: black;
+  color: rgb(255, 0, 0);
+  background: rgb(0, 0, 0);
 }
 #second {
-  color: red;
-  background: yellow;
+  color: rgb(0, 255, 0);
+  background: rgb(255, 255, 255);
+}
+#third {
+  color: rgb(0, 0, 255);
+  background: rgb(4, 88, 34);
+}
+body {
+  background: rgb(100, 34, 210);
 }
