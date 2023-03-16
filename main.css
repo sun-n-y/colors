@@ -1,2 +1,11 @@
 /* color properties */
-/* color background - color background */
+/* color background - color == background */
+
+#first {
+  color: white;
+  background-color: black;
+}
+#second {
+  color: red;
+  background: yellow;
+}
